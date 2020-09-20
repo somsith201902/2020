@@ -1,0 +1,20 @@
+<!DOCTYPE html5>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+</head>
+<body>
+	{% if msg|length > 0 %}
+	<h4> {{ msg }} </h4>
+	{% endif %}
+	<a href = " {{ url_for('loginapi') }}">Login</a>
+	<a href = " {{ url_for('registerapi') }}">Register</a>
+	{% with msgs = get_flashed_messages() %}
+	{% if msgs %}
+		{% for msg in msgs %}
+		<p><h3>{{ msg }}</h3></p>
+		{% endfor %}
+	{% endif %}
+	{% endwith %}
+</body>
+</html>

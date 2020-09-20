@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+	<head>
+	<meta charset = "UTF-8">
+	</head>
+	<body>
+		<h3> Retrieve list of all available books </h3>
+		<form action = "http://localhost:5000/books/" method = "GET">
+			<p><input type = "submit" value = "Retrieve all"></p>
+		</form>
+
+		<script type = text/javascript>
+		function getsingle() {
+			textbid = document.getElementById('textBID').value;
+			document.getElementById('getone').action = "http://localhost:5000/books/" + textbid;
+		}
+		</script>
+		<h3> Retrieve a book by bid </h3>
+		<form id = "getone" onsubmit = "getsingle();" method = "GET">
+		<p><input id = "textBID" type = "text"></p>
+		<p><input type = "submit" value = "Retrieve a book"></p>
+		</form>
+	
+		<h3> Create a new book </h3>
+		<form id = "createone" action = "http://localhost:5000/books/" method = "POST">
+		<p><input type = "text" name = "title" value = "Title"></p>
+		<p><input type = "text" name = "author" value = "Author"></p>
+		<p><input type = "text" name = "genre" value = "Genre"></p>
+		<p><input type = "submit" value = "Create new book"></p>
+		</form>
+		<a href = " {{ url_for('logoutapi') }}">Logout</a>
+		{% with msgs = get_flashed_messages() %}
+		{% if msgs %}
+			{% for msg in msgs %}
+			<p><h3>{{ msg }}</h3></p>
+			{% endfor %}
+		{% endif %}
+		{% endwith %}
+	</body>
+</html>

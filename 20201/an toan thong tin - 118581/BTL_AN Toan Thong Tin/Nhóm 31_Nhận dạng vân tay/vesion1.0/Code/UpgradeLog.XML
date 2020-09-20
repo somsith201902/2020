@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FingerprintRegnition">
+</Property><Property Name="Solution File" Value="D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\FingerprintRegnition.sln">
+</Property><Property Name="User Options File" Value="D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\FingerprintRegnition.suo">
+</Property><Property Name="Date" Value="Sunday, February 24, 2008">
+</Property><Property Name="Time" Value="13:35 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FingerprintRegnition.sln" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\FingerprintRegnition.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FingerprintRegnition.suo" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\FingerprintRegnition.suo">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="FingerprintRegnition.csproj" Description="Project file successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\FingerprintRegnition.csproj">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="FingerprintRegnition.csproj.user" Description="Project user file successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\FingerprintRegnition.csproj.user">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="About.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\About.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="AlgorithmTest.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\AlgorithmTest.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="CompareInfo.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\CompareInfo.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="CompareOption.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\CompareOption.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="CompareWithCollection.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\CompareWithCollection.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="FingerCompare.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\FingerCompare.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="Functions.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\Functions.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="Image.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\Image.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="ImageProcessSetting.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\ImageProcessSetting.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="MaskGabor.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\MaskGabor.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="Minutiae.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\Minutiae.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="RegionSelectPadding.cs" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\RegionSelectPadding.cs">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="App.ico" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="About.resx" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\About.resx">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="AlgorithmTest.resx" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\AlgorithmTest.resx">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="CompareInfo.resx" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\CompareInfo.resx">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="CompareOption.resx" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\CompareOption.resx">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="CompareWithCollection.resx" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\CompareWithCollection.resx">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="FingerCompare.resx" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\FingerCompare.resx">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="ImageProcessSetting.resx" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\ImageProcessSetting.resx">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="RegionSelectPadding.resx" Description="File successfully backed up as D:\BackupData\[NTFS]\HOCTAP\TailieuHoctap\Newest\Logic mo\vesion1.0\Code\Backup\RegionSelectPadding.resx">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="FingerprintRegnition.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FingerprintRegnition" Source="FingerprintRegnition.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FingerprintRegnition.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FingerprintRegnition.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FingerprintRegnition" Source="FingerprintRegnition.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

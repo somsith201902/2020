@@ -1,0 +1,12 @@
+obj\Release\FingerprintRegnition.exe
+bin\Release\FingerprintRegnition.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FingerprintRegnition.About.resources
+obj\Release\FingerprintRegnition.AlgorithmTest.resources
+obj\Release\FingerprintRegnition.CompareInfo.resources
+obj\Release\FingerprintRegnition.CompareOption.resources
+obj\Release\FingerprintRegnition.CompareWithCollection.resources
+obj\Release\FingerprintRegnition.FingerCompare.resources
+obj\Release\FingerprintRegnition.ImageProcessSetting.resources
+obj\Release\FingerprintRegnition.RegionSelectPadding.resources
+obj\Release\FingerprintRegnition.csproj.GenerateResource.Cache

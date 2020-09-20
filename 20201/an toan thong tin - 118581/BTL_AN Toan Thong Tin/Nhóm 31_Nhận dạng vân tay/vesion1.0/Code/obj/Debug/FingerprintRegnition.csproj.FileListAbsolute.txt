@@ -1,0 +1,15 @@
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\bin\Debug\FingerprintRegnition.exe
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\bin\Debug\FingerprintRegnition.pdb
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.csprojAssemblyReference.cache
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.About.resources
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.AlgorithmTest.resources
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.CompareInfo.resources
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.CompareOption.resources
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.CompareWithCollection.resources
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.FingerCompare.resources
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.ImageProcessSetting.resources
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.RegionSelectPadding.resources
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.csproj.GenerateResource.cache
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.csproj.CoreCompileInputs.cache
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.exe
+G:\20192\nhập môn an toàn thông tin\nhan dang van tay vesion1.0\vesion1.0\Code\obj\Debug\FingerprintRegnition.pdb
